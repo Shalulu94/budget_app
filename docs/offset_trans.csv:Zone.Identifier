@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://ibanking.bankofmelbourne.com.au/ibank/accountDetails.action?index=0
+HostUrl=https://ibanking.bankofmelbourne.com.au/ibank/exportTransactions.action?&newPage=1&index=0&exportFileFormat=CSV&exportDateFormat=dd/MM/yyyy&selectedOption=1&dateFrom=undefined&dateTo=undefined&selectedAmountFrom=&selectedAmountTo=&selectedDrCrOption=0&includeCategories=false&includeSubCategories=false&action=exporttransactionHistory&httpMethod=GET
